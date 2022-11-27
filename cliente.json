@@ -1,0 +1,26 @@
+[
+    {
+        "_id":"1",
+        "nombre":"Administrador",
+        "email":"cnct@gmail.com",
+        "rol":"Admin"
+    },
+    {
+        "_id":"2",
+        "nombre":"cristian",
+        "email":"cncardenast@gmail.com",
+        "rol":"User"
+    },
+    {
+        "_id":"3",
+        "nombre":"julio",
+        "email":"julio@gmail.com",
+        "rol":"User"
+    },
+    {
+        "_id":"4",
+        "nombre":"karla",
+        "email":"karla@gmail.com",
+        "rol":"User"
+    }
+]
